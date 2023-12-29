@@ -11,7 +11,6 @@ prevent these issues. This application is primarily intended for faculty and oth
 members of the organization’s personnel who maintain consistent attendance.
 
 Admin has the control of faculty and students’ activity over the app.
-4
 Staff users can input, edit, amend, and update the student's attendance using 
 any mobile device. 
 Student can only view the attendance tab.
